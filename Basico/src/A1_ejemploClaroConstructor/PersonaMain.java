@@ -10,11 +10,11 @@ public class PersonaMain {
 											  //esta en de CONSTRUCTOR de la CLASE
 		
 		//Crear OBJETO mediante el CONSTRUCTOR con el Parametro(nombre):
-		Persona PerUno = new Persona("Camila"); //Como el CONSTRUCTOR le pase un solo parametro, este OBJETO solo recibe un PARAMETRO
+		Persona PerUno = new Persona("Sebastian"); //Como el CONSTRUCTOR le pase un solo parametro, este OBJETO solo recibe un PARAMETRO
 		System.out.println(PerUno.nombre); //Retorna el Juan
 		
 		//Crear OTRO OBJETO mediante el CONSTRUCTOR Parametro(edad):
-		Persona PerTres = new Persona(26);
+		Persona PerTres = new Persona(31);
 		System.out.println(PerTres.edad);    //Retorna 34
 		
 		
