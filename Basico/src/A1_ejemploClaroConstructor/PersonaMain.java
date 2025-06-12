@@ -14,7 +14,7 @@ public class PersonaMain {
 		System.out.println(PerUno.nombre); //Retorna el Sebastian
 		
 		//Crear OTRO OBJETO mediante el CONSTRUCTOR Parametro(edad):
-		Persona PerTres = new Persona(319);
+		Persona PerTres = new Persona(31);
 		System.out.println(PerTres.edad);    //Retorna 31
 
         //Ejemplo de crear otro objeto
